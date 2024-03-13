@@ -20,7 +20,7 @@ const About = () => {
             voluptatibus m ollitia numquam dolorum omnis doloremque quisquam
             modi ab, odio qui unde exercitationem id. Debitis veniam magni
             numquam modi, enim tempore assumenda laudantium neque possimus
-            molestiae nulla dicta ex quam nobis.
+            molestiae nulla dicta ex quam Tushar pal.
           </p>
           <br />
 
