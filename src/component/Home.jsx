@@ -2,7 +2,7 @@ import React from 'react'
 
 import { MdOutlineKeyboardArrowRight } from 'react-icons/md'
 import { Link } from 'react-scroll'
-import Ttt from '../Assert/Ttt.jpg'
+import image from '../Assert/image.png'
 
 const Home = () => {
   return (
@@ -13,12 +13,15 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm a Full Stack Developer
+            I'm a Frontand Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 1 years of experience building and desgining software.
-            Currently, I love to work on web application using technologies like
-            React, Tailwind, Next JS and GraphQL.
+            As a fresh entrant to the field of web development, I bring a solid
+            foundation in HTML, CSS, and JavaScript. My proficiency extends to
+            Tailwind CSS, enabling me to create sleek and responsive user
+            interfaces with ease. Eager to embark on my journey in web
+            development, I'm committed to honing my skills and contributing to
+            exciting projects in the ever-evolving landscape of technology.
           </p>
 
           <div>
@@ -38,7 +41,7 @@ const Home = () => {
 
         <div>
           <img
-            src={Ttt}
+            src={image}
             alt="my profile"
             className="rounded-2xl mx-auto w-2/3 md:w-full"
           />

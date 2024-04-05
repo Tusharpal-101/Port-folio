@@ -44,18 +44,6 @@ const Experience = () => {
       title: 'tailwind',
       style: 'shadow-sky-500',
     },
-    {
-      id: 7,
-      src: html,
-      title: 'html',
-      style: 'shadow-orange-500',
-    },
-    {
-      id: 8,
-      src: html,
-      title: 'html',
-      style: 'shadow-orange-500',
-    },
   ]
 
   return (

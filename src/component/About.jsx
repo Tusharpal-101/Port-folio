@@ -15,12 +15,12 @@ const About = () => {
           </div>
 
           <p className="text-xl mt-20">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae vel
-            tempore repellendus rem, libero possimus veniam nihil eaque culpa
-            voluptatibus m ollitia numquam dolorum omnis doloremque quisquam
-            modi ab, odio qui unde exercitationem id. Debitis veniam magni
-            numquam modi, enim tempore assumenda laudantium neque possimus
-            molestiae nulla dicta ex quam Tushar pal.
+            With a strong grasp of HTML, CSS, JavaScript, and Tailwind CSS, I'm
+            a newcomer ready to make waves in web development. My knack for
+            crafting sleek and responsive user interfaces sets the stage for
+            dynamic projects . Eager to evolve alongside technology, I'm
+            dedicated to enhancing my skills and making meaningful contributions
+            to the field.
           </p>
           <br />
 
